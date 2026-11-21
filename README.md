@@ -2,6 +2,8 @@
 
 A mod for [Phigros++](https://github.com/ggmolly/PhigrosPlusPlus) that plays a chart for you, every note a Perfect with the game's own hit sounds, effects and combo. A button left of the play button on the song list turns it on, and the songs started while it's on play themselves. Nothing of such a play counts: the result screen shows with its grade upside down, and no record, data, unlock, replay or phigros.tools sync comes out of it.
 
+![Every note of a chart hit Perfect while nobody touches the screen](preview.gif)
+
 ## Install
 
 Open the **Mods** tab of the game's settings and pick Autoplay in the catalog, or open [this link](phigrospp://install/ggmolly/phigrospp-autoplay) on the device.
