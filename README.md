@@ -8,6 +8,14 @@ A mod for [Phigros++](https://github.com/ggmolly/PhigrosPlusPlus) that plays a c
 
 Open the **Mods** tab of the game's settings and pick Autoplay in the catalog, or open [this link](phigrospp://install/ggmolly/phigrospp-autoplay) on the device.
 
+## Using it
+
+The robot button left of the replays turns autoplay on, black while it's on. It turns off again whenever the game restarts.
+
+![The robot button lit left of the replays and play buttons on the song list](button.jpg)
+
+![An autoplayed result: 1000000 with every note Perfect and the φ upside down](result.jpg)
+
 ## How it works
 
 The game judges a tap when a finger lands on it, then scores it by how far it is from its time. The mod marks each note as touched in the frame closest to its time, right before the game judges its notes, and keeps a finger on holds until they end, so the game itself gives the Perfect. Touches on the screen judge nothing meanwhile, the pause button still works.
